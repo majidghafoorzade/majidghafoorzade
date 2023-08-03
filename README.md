@@ -13,12 +13,12 @@ A Full-Stack Web developer that enjoys coding :)
 
 ### Frontend:
 <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
     width="40"
     height="40"
 />
 <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"
     width="40"
     height="40"
 />
