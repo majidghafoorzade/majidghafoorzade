@@ -87,3 +87,99 @@ A Full-Stack Web developer that enjoys coding :)
     height="40"
     style="margin-right: 8px"
 />
+
+### Backend:
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+
+### Databases & ORMs:
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+
+### Other tools & Applications:
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
+<img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+    width="40"
+    height="40"
+    style="margin-right: 8px"
+/>
