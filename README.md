@@ -4,6 +4,7 @@ I’m Majid.
 A Full-Stack Web developer that enjoys coding :)
 
 - 🔭 I’m currently working in Mofid Securities (The most popular stock-exchange brokerage in Iran)
+- 🧠 I have 12+ years experience in web development.
 - 🌱 I’m currently learning Golang, PostgreSql, Docker, Linux & Kubernetes
 - ⚡ My personal business and website is www.webino.co
 
