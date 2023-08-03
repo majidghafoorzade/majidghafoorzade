@@ -184,3 +184,19 @@ A Full-Stack Web developer that enjoys coding :)
     height="40"
     style="margin-right: 8px"
 />
+
+## Statistics & Data:
+<img 
+    align="left"
+    style="margin-right: 8px"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=majidghafoorzade&show_icons=true&locale=en&layout=compact"
+    alt="majidghafoorzade"
+/>
+
+
+
+<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=majidghafoorzade&show_icons=true&locale=en"
+    alt="majidghafoorzade"
+/>
