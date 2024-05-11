@@ -103,7 +103,7 @@ A Full-Stack Web developer that enjoys coding :)
     style="margin-right: 8px"
 />
 <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
     width="40"
     height="40"
     style="margin-right: 8px"
@@ -121,7 +121,7 @@ A Full-Stack Web developer that enjoys coding :)
     style="margin-right: 8px"
 />
 <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
     width="40"
     height="40"
     style="margin-right: 8px"
