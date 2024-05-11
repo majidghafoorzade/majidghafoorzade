@@ -83,7 +83,7 @@ A Full-Stack Web developer that enjoys coding :)
     style="margin-right: 8px"
 />
 <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
     width="40"
     height="40"
     style="margin-right: 8px"
